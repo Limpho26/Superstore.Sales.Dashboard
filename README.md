@@ -23,7 +23,7 @@ To analyze and visualize sales performance across product categories, regions, a
 - Reduce discounts in underperforming product lines (e.g., Furniture-Tables).
 - Leverage seasonal trends for marketing and inventory planning.
 ## Files Included
-- [Download Excel Dashboard](https://github.com/Limpho26/Superstore.Sales.Dashboard/blob/main/L.Setenane%20-%20Superstore.Sales.Project.xlsx)  
--  [View Project Summary PDF](https://github.com/Limpho26/Superstore.Sales.Dashboard/blob/main/L.Setenane%20Superstore%20Sales%20Project%20Summary.pdf)
+-  [Download Excel Dashboard](https://github.com/Limpho26/Superstore.Sales.Dashboard/raw/main/Superstore_Sales_Dashboard.xlsx)  
+-  [View Project Summary PDF](https://github.com/Limpho26/Superstore.Sales.Dashboard/raw/main/Superstore_Sales_Dashboard_Project_Summary.pdf)
 ## About Me
 I'm Limpho Setenane, I am a BCom Economics and Econometrics graduate, an aspiring data analyst passionate about using data to solve real-world business problems. This project is part of my portfolio to showcase my skills in Excel and data analytics.
