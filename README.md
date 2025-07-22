@@ -6,6 +6,7 @@ To analyze and visualize sales performance across product categories, regions, a
 - PivotTables & PivotCharts
 - Slicers
 - Conditional Formatting
+- LOOKUP Functions (including VLOOKUP and XLOOKUP for category mapping and cleaner data views)
 ## Business Questions Answered
 1. Which product categories and sub-categories are most profitable?
 2. Which regions and segments drive the most revenue?
